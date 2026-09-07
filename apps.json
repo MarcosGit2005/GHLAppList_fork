@@ -337,6 +337,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/9ff478a05056d2fe0d7d1e1dd9b35a5f.png"
     },
 	{
+      "name": "Klonoa: Door to Phantomile Recomp",
+      "repository": "TechnicallyComputers/Klonoa-Door-to-Phantomile",
+      "folderName": "Klonoa-Recompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/9006f5a586fc9d7dfa4a0821536cb7a4.png"
+    },
+	{
       "name": "Mega Man X5 Recomp",
       "repository": "mstan/MegaManX5Recomp",
       "folderName": "MegaManX5Recomp",

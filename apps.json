@@ -599,12 +599,12 @@
 
   "AI Rexglue - Xbox 360": [
 	{
-      "name": "Hell's Gate (Dante's Inferno)",
-      "repository": "florinp93/hells-gate-recomp",
-      "folderName": "hells-gate-recomp",
-      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/14913ab14edfe19e53f3f4d73170bede.png"
+      "name": "Deadly Premonition Recompilation",
+      "repository": "LittleBitUA/DPRecomp",
+      "folderName": "DeadlyPremonitionRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/271a9d7db23216fb9eceaed5b0bc19e1.jpg"
     },
-	{
+    {
       "name": "Destroy All Humans: Path of the Furon (ReDahm)",
       "repository": "masterspike52/redahm",
       "folderName": "redahm",
@@ -615,6 +615,12 @@
       "repository": "SunJaycy/GoldenEye-Recomp",
       "folderName": "GoldenEyeRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/c967fb654df41177901d1f5f135bf9e6.png"
+    },
+	{
+      "name": "Hell's Gate (Dante's Inferno)",
+      "repository": "florinp93/hells-gate-recomp",
+      "folderName": "hells-gate-recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/14913ab14edfe19e53f3f4d73170bede.png"
     },
     {
       "name": "Kameo: RePowered",

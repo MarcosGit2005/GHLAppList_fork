@@ -23,6 +23,12 @@
       "repository": "kumapauz/project-reignition",
       "folderName": "ProjectReignition",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/92914b863caab3084c5cf0cb02e72b11.png"
+    },
+	{
+      "name": "re:Blue (Blue Dragon)",
+      "repository": "zolaware/reblue",
+      "folderName": "reblue-recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/3c0f54fd01aca4dc3fb5c51e9b02dafe.jpg"
     }
   ],
 
@@ -32,6 +38,12 @@
       "repository": "flyngmt/ACGC-PC-Port",
       "folderName": "ACPCPort",
       "appIconUrl": "https://raw.githubusercontent.com/flyngmt/ACGC-PC-Port/refs/heads/master/pc/res/icon.png"
+    },
+    {
+      "name": "Ring Out (SoulCalibur II)",
+      "repository": "jackpoison-prog/RingOut",
+      "folderName": "RingOut",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/8f2a580cb0f40eab3546cdf886ee0797.png"
     },
 	{
       "name": "Wiicompiled (Mario Kart Wii)",
@@ -307,6 +319,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/d28a3097fa7cf63ad01c4f328314e2f2.png"
     },
     {
+      "name": "Bloody Roar II Recompiled",
+      "repository": "novapowers0/BloodyRoar2Recomp",
+      "folderName": "BloodyRoar2Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/600ec019e03ab20d98ba29e4119d2145.jpg"
+    },
+    {
       "name": "Crash Bandicoot Recomp",
       "repository": "Matteo842/CrashBandicoot-Launcher",
       "folderName": "CrashBandicoot",
@@ -319,6 +337,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/9ff478a05056d2fe0d7d1e1dd9b35a5f.png"
     },
 	{
+      "name": "Mega Man X5 Recomp",
+      "repository": "mstan/MegaManX5Recomp",
+      "folderName": "MegaManX5Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/38c695d7d15ad15667ad265d3a1a2243/32/256x256.png"
+    },
+	{
       "name": "Mega Man X6 Recomp",
       "repository": "mstan/MegaManX6Recomp",
       "folderName": "MegaManX6Recomp",
@@ -329,6 +353,30 @@
       "repository": "SlickAmogus/silent-hill-decomp",
       "folderName": "SilentHillDecompilationProject",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/8847f8243bea41c5145872e904631d71.png"
+    },
+	{
+      "name": "Street Fighter EX Plus Alpha Recomp",
+      "repository": "guimaraf/plusalpha-recomp",
+      "folderName": "plusalpha-recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/07d78c45b9d828ca146f4b49e85ec74f.jpg"
+    },
+	{
+      "name": "Street Fighter EX2 Plus Recomp",
+      "repository": "strider973/Street-Fighter-EX2-Plus-Recompiled",
+      "folderName": "Street-Fighter-EX2-recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/a665f0d07d17ae69eb2deb1812fbf336.jpg"
+    },
+	{
+      "name": "Strider 2 Recompiled",
+      "repository": "strider973/STRIDER-2-Recompiled",
+      "folderName": "STRIDER-2-Recompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/08e5d865860f4316d85a0fb8e408dd6b.jpg"
+    },
+	{
+      "name": "Tekken 3 Recomp",
+      "repository": "fabioap-cpu/Tekken3Recomp",
+      "folderName": "Tekken3Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/c16fcce846042d65044d795b4b7a16e3/32/256x256.png"
     },
 	{
       "name": "Tomba! Recomp",
@@ -417,6 +465,12 @@
       "repository": "bryanthaboi/gen1recomp",
       "folderName": "Gen1Recomp",
       "appIconUrl": "https://raw.githubusercontent.com/bryanthaboi/gen1recomp/main/assets/logo/gen1recomp_cover.png"
+    },
+    {
+      "name": "Mario Kart: Super Circuit Recomp",
+      "repository": "mstan/MarioKartSuperCircuitRecomp",
+      "folderName": "MarioKartSuperCircuitRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/cfd6c82a2b509c9fde692e0bb068f0c3.jpg"
     }
   ],
 
@@ -455,10 +509,28 @@
 
   "AI - Other Ports": [
     {
+      "name": "CannonBall DX (Outrun)",
+      "repository": "Endprodukt/cannonball-dx",
+      "folderName": "cannonball-dx",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/5898493fbdf4a44a24084021b2215f85.png"
+    },
+    {
+      "name": "Initial D Arcade Stage 3",
+      "repository": "distilledorion-sketch/Initial-D-Arcade-Stage-3-Native-SH-4-Recompilation-WIP-",
+      "folderName": "Initial-D-Arcade-Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/72ebb8ac68204d27c7991c647ecaa34b.jpg"
+    },
+    {
       "name": "Metroid Prime: Hunters Recomp",
       "repository": "mstan/MetroidPrimeHuntersRecomp",
       "folderName": "MetroidPrimeHuntersRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/a4dbd8807f9a6cfe63c78e84676df2ee.png"
+    },
+    {
+      "name": "Star Fox Enhanced (Starfox: EX)",
+      "repository": "kandowontu/starfox-enhanced",
+      "folderName": "starfox-enhanced",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/5aa21a1dc1384e4fc536bf600fc104d9.jpg"
     }
   ],
 
@@ -526,6 +598,12 @@
   ],
 
   "AI Rexglue - Xbox 360": [
+	{
+      "name": "Hell's Gate (Dante's Inferno)",
+      "repository": "florinp93/hells-gate-recomp",
+      "folderName": "hells-gate-recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/14913ab14edfe19e53f3f4d73170bede.png"
+    },
 	{
       "name": "Destroy All Humans: Path of the Furon (ReDahm)",
       "repository": "masterspike52/redahm",

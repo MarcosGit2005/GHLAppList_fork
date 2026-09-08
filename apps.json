@@ -389,6 +389,12 @@
       "repository": "mstan/TombaRecomp",
       "folderName": "TombaRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/6f64ba651f05e2714936e631ad56c5d4/32/512x512.png"
+    },
+	{
+      "name": "ValkyrieRecomp (Valkyrie Profile)",
+      "repository": "Ed1z19/ValkyrieRecomp",
+      "folderName": "ValkyrieRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/71026e71e5f39ad49a465d932c9f43e6.jpg"
     }
   ],
 

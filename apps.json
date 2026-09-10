@@ -263,6 +263,12 @@
       "repository": "ThiagoLira/trouble-makers-pc-recomp",
       "folderName": "TroubleMakers",
       "appIconUrl": "https://github.com/ThiagoLira/trouble-makers-pc-recomp/blob/main/icons/512.png?raw=true"
+    },
+    {
+      "name": "Wave Race 64: Recompiled",
+      "repository": "elliotttate/wave-race-64-recomp",
+      "folderName": "wave-race-64-recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7b6ce75e5d95acc103465e3522f9d2fd.png"
     }
   ],
 
@@ -543,6 +549,12 @@
       "repository": "kandowontu/starfox-enhanced",
       "folderName": "starfox-enhanced",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/5aa21a1dc1384e4fc536bf600fc104d9.jpg"
+    },
+    {
+      "name": "TriAevum (Legend of Zelda: Ocarina of Time 3D)",
+      "repository": "coccofresco/TriAevum",
+      "folderName": "TriAevum",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/d800c6cf5d304e013ec4f95ab772d62e.png"
     }
   ],
 

@@ -50,6 +50,12 @@
       "repository": "patchzyy/Wiicompiled",
       "folderName": "Wiicompiled",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/56b372902b44225b798890ea08b076c0.png"
+    },
+    {
+      "name": "Open Nectar (Pikmin)",
+      "repository": "SSunnKing/Open-Nectar---Pikmin-Native-PC-Port",
+      "folderName": "OpenNectar",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/662e36ee515cc76be93a0caa7ffbeeb9/32/256x256.png"
     }
   ],
 

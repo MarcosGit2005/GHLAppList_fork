@@ -413,7 +413,7 @@
 
   "AI - 2D Game Ports": [
     {
-      "name": "Gen1Recomp (Pokemon Red, Blue, & Yellow)",
+      "name": "Gen1Recomp++ (Pokemon RBY + GSC)",
       "repository": "bryanthaboi/gen1recomp",
       "folderName": "Gen1Recomp",
       "appIconUrl": "https://raw.githubusercontent.com/bryanthaboi/gen1recomp/main/assets/logo/gen1recomp_cover.png"

@@ -165,6 +165,12 @@
       "folderName": "MegaMan64Recompiled",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/850618e22f83f152773d2a3e51168812.png"
     },
+	{
+	  "name": "PaperBoat (Paper Mario)",
+	  "repository": "HarbourMasters/PaperBoat",
+	  "folderName": "PaperBoat",
+	  "appIconUrl": "https://github.com/HarbourMasters/PaperBoat/blob/develop/logo.png?raw=true"
+	},
     {
       "name": "Perfect Dark Port",
       "repository": "fgsfdsfgs/perfect_dark",

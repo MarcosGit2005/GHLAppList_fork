@@ -361,6 +361,12 @@
       "appIconUrl": "https://github.com/Matteo842/CrashBandicoot-Launcher/blob/main/icon.png?raw=true"
     },
 	{
+      "name": "Crash Bandicoot 2 Recomp",
+      "repository": "Zumbo06/Crash2Recomp",
+      "folderName": "CrashBandicoot2",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/0432a37cefd696a70d9db9ec0c17d31a.png"
+    },
+	{
       "name": "Einhander Recompiled",
       "repository": "strider973/Einhander-Recompiled",
       "folderName": "Einhander-Recompiled",

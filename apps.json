@@ -451,6 +451,12 @@
       "folderName": "MegaManXSNESRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/b946c734affd9d4de72dd92957bfc9f8.png"
     },
+	{
+      "name": "MegamanX2 Recomp",
+      "repository": "mstan/MegaManX2Recomp",
+      "folderName": "MegaManX2Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/fe5e746f078fb13928d9558651397be2.png"
+    },
     {
       "name": "smw (Super Mario World)",
       "repository": "snesrev/smw",

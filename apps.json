@@ -7,6 +7,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/3eea4f9e7acb84e451bcfdfac2050fd7/32/256x256.png"
     },
 	{
+      "name": "melee-pc (Super Smash Bros Melee)",
+      "repository": "999sian/melee-pc",
+      "folderName": "melee-pc",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/eefc9e10ebdc4a2333b42b2dbb8f27b6.png"
+    },
+	{
       "name": "Kirby Wii Recomp",
       "repository": "ExpansionPak/ModernGekko",
       "folderName": "KirbyWiiRecomp",

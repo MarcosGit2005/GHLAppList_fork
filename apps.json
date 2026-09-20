@@ -13,6 +13,12 @@
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/eefc9e10ebdc4a2333b42b2dbb8f27b6.png"
     },
 	{
+      "name": "Strikers (Super Mario Strikers)",
+      "repository": "new-coke/strikers",
+      "folderName": "Strikers",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ea86ccbb57d32f5889139224411436df.png"
+    },
+	{
       "name": "Kirby Wii Recomp",
       "repository": "ExpansionPak/ModernGekko",
       "folderName": "KirbyWiiRecomp",
